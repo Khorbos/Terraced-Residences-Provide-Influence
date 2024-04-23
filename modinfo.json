@@ -1,0 +1,59 @@
+﻿{
+  "Version": "0.0.1",
+  "License": "GPL-2.0-only",
+  "ModID": "KB_TerracedResidencesProvideInfluence",
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "jakob_industrial_cities",
+    "jakob_new_world_cities",
+  ],
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Terraced Residences Provide Influence",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Jakob's Terraced Residences Provide Influence.",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "khorbos",
+  "CreatorContact": null,
+  "Image": null
+}
